@@ -1,9 +1,9 @@
 # Stock-Market-Prediction
 
-Your folder should contain multiple .csv files, each representing historical stock data for a different company.
-Each CSV file should have columns similar to:   Date | Open | High | Low | Volume | Close | Adj Close
+* Your folder should contain multiple .csv files, each representing historical stock data for a different company.
+* Each CSV file should have columns similar to:   Date | Open | High | Low | Volume | Close | Adj Close
 
-How It Works
+* How It Works
 For each CSV file in the folder:
    .Reads and cleans the file.
    .Ensures required columns are present.
